@@ -1,0 +1,152 @@
+body {
+    background-color:skyblue;
+    align-items:center ;
+    justify-content:center ;
+    font-family:Courier New;
+}
+
+div {
+    background:lightpink;
+    width:380px;
+    height:670px;
+    border-radius:20px;
+    text-align:center ;
+    margin-top:40px;
+    margin-left:8px;
+    overflow:hidden ;
+}
+
+.home {
+    text-align:left;
+    margin-left:-90%;
+    text-decoration:none ;
+    font-weight:bold;
+    font-size:3vh;
+    font-family:monospace, sans-serif;
+    
+}
+
+h4 {
+    font-size:40px;
+    font-style:italic ;
+    background-color:black;
+    color:white;
+    letter-spacing:3px;
+    margin-top:.5vh;
+}
+
+#user{
+    font-size:40px;
+    color:black;
+    margin-top:-5%;
+}
+
+input {
+    width:300px;
+    height:40px;
+    border-radius:10px;
+    background:white;
+    margin:10px;
+    font-family:Courier New;
+    text-decoration:none ;
+    text-align:center ;
+    outline:none;
+    border-style:none ;
+    font-size:15px;
+}
+
+input:hover{
+    width:340px;
+    font-size:20px;
+    border:1.5px solid blue;
+}
+
+#comm {
+    font-size:10px;
+    font-weight:bold;
+}
+
+i{
+    color:blue;
+}
+
+button {
+    width:300px;
+    height:40px;
+    border-radius:10px;
+    border-style:none;    
+    outline:none;
+    font-size:20px;
+    font-family:Courier New;
+    background:blue;
+    color:white;
+    margin:25px;
+}
+
+button:hover{
+    background:darkblue;
+}
+
+p {
+    font-size:10px;
+}
+
+ul {
+    list-style:none ;
+    display:flex;
+    align-items:center ;
+    justify-content:center ;
+    margin-top:30px;
+}
+
+li{
+    margin:-50px;
+    width:30px;
+    height:30px;
+    border-radius:15px;
+    text-align:center ;
+}
+
+li a{
+    margin-left:-40px;
+}
+
+li #go{
+    color:red;
+}
+
+li #fa{
+    color:blue;
+}
+
+li #in{
+    color:blueviolet;
+}
+
+li #sn{
+    color:yellow;
+}
+
+.in{
+    font-size:7px;
+    margin-top:35px;
+}
+
+.checkox{
+    width:25px;
+    height:25px;
+    border:none;
+    outline:none;
+    background:white;
+    text-decoration:none ;
+}
+
+.link4s {
+    font-size:15px;
+}
+
+#fp a {
+    font-weight:bolder ;
+    font-size:15px;
+    text-decoration:none ;
+}
